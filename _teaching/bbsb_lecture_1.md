@@ -1,14 +1,14 @@
 ---
-title: "Lecture 2"
+title: "Basics on Bioinformatics and Systems Biology: Lecture 1"
 collection: teaching
-type: "Workshop"
+type: "Lecture"
 permalink: /teaching/bbsb_lecture_1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "VU"
+date: 2026-01-10
+location: "Amsterdam, the Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Here you will find the basic concepts for the Lecture 1 and link to the additional/support material
 
 Heading 1
 ======
