@@ -17,7 +17,7 @@ Central dogma of molecular biology
 
 | Slide  | Transcript | Additional |
 | ------------- | ------------- | ------------- |
-| <img src="" width="500">  | Content Cell  | Links  |
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Central_dogma.jpg" width="500">  | Content Cell  | Links  |
 
 Omics data
 DNA level
