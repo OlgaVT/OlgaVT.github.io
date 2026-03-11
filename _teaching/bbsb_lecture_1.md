@@ -10,17 +10,23 @@ location: "Amsterdam, the Netherlands"
 
 Here you will find the basic concepts for the Lecture 1: Introduction and link to the additional/support material
 
-Molecular Biology
-======
+# Molecular Biology
 
-Central dogma of molecular biology
+## Central dogma of molecular biology
 
-| Slide  | Transcript | Additional material|
-| ------------- | ------------- | ------------- |
-| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Central_dogma.png" width="2500">  | Central dogma of molecular biology describes the information flow from DNA via RNA to proteins. Friefly:  | Links  |
+| Slide | Transcript | Additional material|
+|----------------|-------------|-------------|
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Central_dogma.png" width="25000">  | Central dogma of molecular biology describes the information flow from DNA via RNA to proteins. First, it was stated by Francis Crick in 1957 and publishd in 1958. Briefly, DNA contains all the information about the cell. Which genes will be used (expressed), which proteins, etc. The information is passed to RNA. And finally, to proteins, the functional units of the cell. The slide illustrates the extended version of Central dogma. The most important processes are from DNA to RNA, called transcription. And from RNA to proteins, called translation|[About DNA replication, transcription, and translation](https://www.youtube.com/watch?v=6gUY5NoX1Lk)   |
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Measurements.png" width="25000">  |  And we can measure each level to learn about the biological processes in the cell. Each layer comes with its own set of experimental techniques and downstream bioinformtics analysis. Some techniques measure one or several molecules. We can call them low-throughput. In opposite, there are methods that try to measure all moleculs of a type of interest. We can call them high-throughput.  |[About biomolecules](https://www.youtube.com/watch?v=1Dx7LDwINLU)|
 
-Omics data
-DNA level
+## DNA level
+
+| Slide | Transcript | Additional material|
+|----------------|-------------|-------------|
+|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Genomics.png" width="25000">  |DNA level is referred to as Genomics. Genomics studies whole genomes of organisms. It uses a combination of recombinant DNA, DNA sequencing methods, and bioinformatics to sequence, assemble, and analyse the structure and function of genomes. The main difference between genomics and genetics is that genetics scrutinizes the functioning and composition of the single gene (or several genes) where as genomics addresses all genes and their inter relationships in order to identify their combined influence on the growth and development of the organism.|[About DNA](youtube.com/watch?si=NF9aF05YWWBrv5s0&v=AmOO4j0E408&feature=youtu.be)|
+|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Development_genomics.png" width="25000">  |The main technique to study genomes is sequencing. Sequencing refers to getting access to the sequence or primary structure of any biopolymer. (DNA, mRNA, miRNA, methylation pattern). The sequencing have been rapidly developing from low-throughput methods like Sanger sequencing, which is still remains the 'gold standard' to Illumina sequencing that can sequence millions of fragments in parallel or aims to sequence the whole DNA (long-sequencning by PacBio/ONT Nanopore).|[Sanger sequencing](https://www.youtube.com/watch?v=e2G5zx-OJIw) [Illumina](https://www.youtube.com/watch?v=fCd6B5HRaZ8&t=179s) PacBio(https://www.youtube.com/watch?v=_lD8JyAbwEo) [Nanopore](https://www.youtube.com/watch?v=RcP85JHLmnI)|
+
+
 RNA level
 Epigenetics
 Proteins
