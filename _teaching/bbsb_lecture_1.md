@@ -15,9 +15,9 @@ Molecular Biology
 
 Central dogma of molecular biology
 
-| Slide  | Transcript | Additional |
+| Slide  | Transcript | Additional material|
 | ------------- | ------------- | ------------- |
-| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Central_dogma.jpg" width="500">  | Content Cell  | Links  |
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Central_dogma.png" width="2500">  | Central dogma of molecular biology describes the information flow from DNA via RNA to proteins. Friefly:  | Links  |
 
 Omics data
 DNA level
