@@ -37,12 +37,15 @@ Here you will find the basic concepts for the Lecture 1: Introduction and link t
 ||The structure of a eukariotic gene is a bit more complicated. Within the gene there are coding regions - exons, and non-coding regions - introns. After transcription, or actually during transcription (so called, co-transcriptionally), introns are removed, and exons are joind together. The process is called splicing. So in other words, introns are spliced out, and exons are spliced in. However, eukaryotic genes have the same regulatory regions: promotes to start transcription and operator to bind transcriptional factor|[About gene expression regulation](https://www.youtube.com/watch?v=ebIpkw3XapE)|
 ||There is one more, very intriguing type of regulation that is very remote. A very distant region, enhancer, that can bind and impact the gene expression||
 ||Coming back to the eukariotic gene structure, we now see one more mechanism how the same DNA can manisfest into different cell types. Introns and exons can be seen as building blocks that can be combined in different ways. This process is called alternative splcing. And the estimation is that 95% of multiexonic genes undergo alternative splicing||
-||During alternative splcing, exons can be skipped, extended, or shortened. Also introns might be kept in the resulting mRNA. And theer are slo special proteins - splicing factors - that regulate this process||
+||During alternative splcing, exons can be skipped, extended, or shortened. Also introns might be kept in the resulting mRNA. And there are also special proteins - splicing factors - that regulate this process. The resulting mRNA are translated into proteins that might be similar but might be very different in function and structre.||
 
+## Epigenetics
+| Slide | Transcript | Additional material|
+|----------------|-------------|-------------|
+||The cells diverity might be not only dictated on the level of RNA but already on the level of DNA. Here we talk about epigenetics. “Epi” in Greek meaning “on” or “above”. C.H. Waddington used the phrase in the 1940’s to describe how environmental influences on developmental event can affect the phenotype. The present definition describe 'epigenetics' as alteration of gene (expression) without changes in DNA sequence itself, which may lead to functional changes. This includes chemical modifications of the DNA or the histones. Why is this important||
+||Let's have a look into the organization of a genome. How long is a DNA molecule. It is around 3 meters. And cell nucleus (if we talk about eukaryotic cells, for example), is micrometers. How to put inside such a long molecule. You need to pack it quite tightly||
 
-
-Epigenetics
-Proteins
+## Proteins
 
 
 
