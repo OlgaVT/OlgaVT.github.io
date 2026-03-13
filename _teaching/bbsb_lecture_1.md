@@ -10,7 +10,7 @@ location: "Amsterdam, the Netherlands"
 
 Here you will find the basic concepts for the Lecture 1: Introduction and link to the additional/support material
 
-# Molecular Biology
+# Refreshing molecular Biology
 
 ## Central dogma of molecular biology
 
@@ -55,9 +55,3 @@ Here you will find the basic concepts for the Lecture 1: Introduction and link t
 |----------------|-------------|-------------|
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Proteomics_type.png" width="25000">|Finally, we arrived to proteins. Proteins mediates the cell functions. And depending on the research question, there are different ways to study proteins. We can measure the amount of proteins with. e.g., mass-spectromery. We can study their 3D structure. Or we can study the interactions between proteins. ||
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Proteomics_why.png" width="25000">|One important question: if proteins mediate the cell functions why not just measure proteins always. One reason is technical, we can not measure all the proteins and modifications. Next, RNA and protein level are associated but not ideally. And finally, looking only on proteins, we would lose the information about non-protein coding RNA sequences, important for, e.g., epigenetic regulation||
-
-
-
-Biomarkers
-======
-
