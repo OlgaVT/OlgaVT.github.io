@@ -22,8 +22,10 @@ Here you will find the basic concepts for the Lecture 2 and links to the additio
 
 Computational analysis of bulk RNA-Sequencing data: from raw files to biological interpretation (next lecture)
 ======
+| Slide | Transcript | Additional material|
+|----------------|-------------|-------------|
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">|FASTQ files represent raw data for RNA-sequencing (and all other sequencing) analysis. FASTQ format consists of: 1) The name/identifier of a sequence; 2) A sequence; 3) A delimiter; 4) Quality scores. FASTA format (often used in the sequencing databases) consists of: 1) The name/identifier of a sequence; 2) A sequence. |[](link)   [](link)|
-| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">|Quality scores symbols encode the probability of a nucleotide to be called erroneously. Quality scores calculation is a part of a base calling algorithm inside the sequencing instrument|[]([Manuscript](https://genome.cshlp.org/content/8/3/175?implicit-login=true%26263))   [](link)|
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">|Quality scores symbols encode the probability of a nucleotide to be called erroneously. Quality scores calculation is a part of a base calling algorithm inside the sequencing instrument|[Manuscript](https://genome.cshlp.org/content/8/3/175?implicit-login=true%26263)   [](link)|
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">| |[](link)   [](link)|
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">| |[](link)   [](link)|
 
