@@ -20,7 +20,7 @@ Here you will find the basic concepts for the Lecture 2 and links to the additio
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">| However, if we need to measure (almost) all genes in a sample, we use microarray or RNA-Sequencing. Microarray is almost obsolete though it is still have some applications, it is cheaper, and there are microarray datasets that is still widely used e.g., METABRIC that consists of about 2500 breast cancer samples. However, microarray uses the predefined set of probes to detect and quantify RNA, thus we can not detect and quantify novel transcripts. That's why RNA-Sequenicng is the most popular technology for measuring gene expression|[Microarray](link)   [METABRIC](link)  |
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">| Sequencing technologies (covered in Lecture 4): <ul><li>First generation - Maxam-Gilber sequencing and Sanger sequencing</li><li>Second generation - high-throughput and parallel e.g., Illumina</li><li>Third generation - Single-cell and long reads resolution e.g., ONT Nanopore, PacBio</li></ul> |[Illumina](link)   [Sanger sequencing](link) [Nanopore](link) [PacBio](link) |
 
-Computational analysis of bulk RNA-Sequencing data: from raw files to biological interpretation (next lecture)
+Computational analysis of bulk RNA-Sequencing data: from raw files to a gene counts table
 ======
 | Slide | Transcript | Additional material|
 |----------------|-------------|-------------|
@@ -30,9 +30,12 @@ Computational analysis of bulk RNA-Sequencing data: from raw files to biological
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">|The second step is to find the origin of a read sequence. Here the two main approaches are to assemble the reads de novo (the assembly algorithms were covered on Lecture 4) and to map them to a template - reference genome or transcriptome. |[](link)   [](link)|
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">|The reference genome is DNA sequences representing the DNA material of an organism. There are huge databases that collect all genomes - GenBank (NCBI, USA) and Ensembl (EMBL, Europe). Also, the model organisms usually have the dedicate, separate consortiums and databases. |[](link)   [](link)|
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">| The mapping process usually consists of two steps. The first step is the genome indexing - making a vocabulary of all small words in the genome and their coordinates. To store this vocabulary, different tools use all possible structures like hashes, suffix trees or arrays, Burrow-Wheeler transform. The idea is to have a structure which you can use to look for the word of interest as fast as possible. The second step is mapping ...|[](link)   [](link)|
-| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">| After you mapped all the sequences (reads) from the FASTQ raw file, you can count how many reads you have per a genome region e.g., per gene. The result is a count table.|[](link)   [](link)|
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">| After you mapped all the sequences (reads) from the FASTQ raw file, you can count how many reads you have per a genome region e.g., per gene. The result is a count table. Each cell represents the amount of gene present in the sample, or in other words, the gene expression. One of the most common questions to ask is which genes have different level of expression between samples.|[](link)   [](link)|
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">| |[](link)   [](link)|
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">| |[](link)   [](link)|
+
+Computational analysis of bulk RNA-Sequencing data: differential gene expression
+======
 
 Heading 3
 ======
