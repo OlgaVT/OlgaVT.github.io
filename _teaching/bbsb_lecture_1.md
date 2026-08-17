@@ -61,15 +61,12 @@ Texbooks:
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">|**Hi-C** - an experimental technique to analyze the DNA organization. The logic is similar but we link not DNA and proteins but parts of DNA that are close to each other</ul>|[Hi-C](https://www.youtube.com/watch?v=p1VoktH-ygc) [Computational analysis of Hi-C [paper]](https://pubmed.ncbi.nlm.nih.gov/25448293/)|
 
 ## Proteins
+| Text | Additional material|
+|-------------|-------------|
+|<ul>**Proteins**<li>Monomeric units are called **amino acids**</li><li>Use 20 common amino acids</li><li>Primary structure - sequence</li><li>Secondary structure - alpha-helix or beta-sheet</li><li>Tertiary structure - 3D structure</li><li>Quaternary strucutre - protein complex</li></ul>|[About proteins](https://youtu.be/78QUeXVKiJ4?si=RipCw0o4120eEE_G)|
+
 | Slide | Transcript | Additional material|
 |----------------|-------------|-------------|
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Proteomics_type.png" width="25000">|Finally, we arrived to proteins. Proteins mediate the cell functions. And depending on the research question, there are different ways to study proteins. We can measure the amount of proteins with. e.g., mass-spectromery. We can study their 3D structure. Or we can study the interactions between proteins. ||
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Proteomics_why.png" width="25000">|One important question: if proteins mediate the cell functions why not just always measure proteins. One reason is technical, we can not measure all the proteins and modifications. Next, RNA and protein level are associated but not ideally. And finally, looking only on proteins, we would lose the information about non-protein coding RNA sequences, important for, e.g., epigenetic regulation||
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Databases.png" width="25000">|The generated molecular data often (but, unfortunately, not always) become publicly available. Here is the list of example resources where you can find molecular measurements.||
-
-## Measurements
-| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Measurements.png" width="25000">  |  We can measure each level to learn about the biological processes in the cell. Each layer comes with its own set of experimental techniques and downstream bioinformtics analysis. Some techniques measure one or several molecules. We call them low-throughput. In opposite, there are methods that try to measure all molecules of a type of interest. We call them high-throughput.  |[About biomolecules]|
-
-
-
-|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Genomics.png" width="25000">|<ul><li></li></ul>|[About biomolecules](https://www.youtube.com/watch?v=1Dx7LDwINLU)|
