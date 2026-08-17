@@ -67,6 +67,9 @@ Texbooks:
 
 | Slide | Transcript | Additional material|
 |----------------|-------------|-------------|
-|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Proteomics_type.png" width="25000">|<ul>**Proteomics.** Depending on the research question, there are different ways to study proteins. <li>We can measure the amount of proteins or protein expression with **mass-spectromery**.</li> <li>We can study their 3D structure of proteins with **nuclear magnetic resonance (NMR)** or **X-ray chrystallography**.</li><li>We can study the interactions between proteins with co-immunoprecipitation or affinity-purification mass spectrometry</ul>||
-|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Proteomics_why.png" width="25000">|One important question: if proteins mediate the cell functions why not just always measure proteins. One reason is technical, we can not measure all the proteins and modifications. Next, RNA and protein level are associated but not ideally. And finally, looking only on proteins, we would lose the information about non-protein coding RNA sequences, important for, e.g., epigenetic regulation||
-|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Databases.png" width="25000">|The generated molecular data often (but, unfortunately, not always) become publicly available. Here is the list of example resources where you can find molecular measurements.||
+|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Proteomics_type.png" width="25000">|<ul>**Proteomics.** Depending on the research question, there are different ways to study proteins. <li>We can measure the amount of proteins or protein expression with **mass-spectromery**.</li> <li>We can study their 3D structure of proteins with **nuclear magnetic resonance (NMR)** or **X-ray chrystallography**.</li><li>We can study the interactions between proteins with **co-immunoprecipitation** or **affinity-purification mass spectrometry**</ul>||
+
+## Databases
+| Text | Additional material|
+|-------------|-------------|
+|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Databases.png" width="25000">|The list of most commonly used databases|
