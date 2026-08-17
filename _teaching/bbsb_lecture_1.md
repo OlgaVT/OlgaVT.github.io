@@ -10,7 +10,7 @@ location: "Amsterdam, the Netherlands"
 
 The basic concepts (not the full lecture!) for the Lecture 1: Introduction and links to the additional/support material
 
-# Refreshing molecular Biology
+# Refreshing molecular biology
 Texbooks:
 1. Bruce Alberts. Molecular biology of the cell. (The 4th edition could be found here: https://www.ncbi.nlm.nih.gov/books/NBK21054/)
 
