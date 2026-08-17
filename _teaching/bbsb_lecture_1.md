@@ -8,15 +8,17 @@ date: 2026-01-10
 location: "Amsterdam, the Netherlands"
 ---
 
-Here you will find the basic concepts for the Lecture 1: Introduction and link to the additional/support material
+The basic concepts (not the full lecture!) for the Lecture 1: Introduction and links to the additional/support material
 
 # Refreshing molecular Biology
+Texbooks:
+1. Bruce Alberts. Molecular biology of the cell. (the 4th edition could be found here: https://www.ncbi.nlm.nih.gov/books/NBK21054/)
 
 ## Central dogma of molecular biology
 
 | Slide | Transcript | Additional material|
 |----------------|-------------|-------------|
-| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Central_dogma.png" width="25000">  | Central dogma of molecular biology describes the information flow from DNA via RNA to proteins. It was formulated by Francis Crick in 1957 and publisehd in 1958. Briefly, DNA contains all the information about the cell. Which genes will be used (expressed), which proteins, etc. The information is passed to RNA. And finally, to proteins, the functional units of the cell. The slide illustrates the extended version of Central Dogma. The most important processes are from DNA to RNA, called transcription. And from RNA to proteins, called translation|[About DNA replication, transcription, and translation](https://www.youtube.com/watch?v=6gUY5NoX1Lk)   |
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Central_dogma.png" width="25000">  | 1. **Central dogma of molecular biology** describes the flow of the genetic information from DNA via RNA to proteins. It was formulated by Francis Crick in 1957 and published in 1958. Briefly, DNA contains all the information about the cell. Which genes will be used (expressed), which proteins, etc. The information is passed to RNA. And finally, to proteins, the functional units of the cell. The slide illustrates the extended version of Central Dogma. The most important processes are from DNA to RNA, called transcription. And from RNA to proteins, called translation|[About DNA replication, transcription, and translation](https://www.youtube.com/watch?v=6gUY5NoX1Lk)   |
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Measurements.png" width="25000">  |  We can measure each level to learn about the biological processes in the cell. Each layer comes with its own set of experimental techniques and downstream bioinformtics analysis. Some techniques measure one or several molecules. We call them low-throughput. In opposite, there are methods that try to measure all molecules of a type of interest. We call them high-throughput.  |[About biomolecules](https://www.youtube.com/watch?v=1Dx7LDwINLU)|
 
 ## DNA level
