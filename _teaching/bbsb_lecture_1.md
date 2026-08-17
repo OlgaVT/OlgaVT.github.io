@@ -16,16 +16,18 @@ Texbooks:
 
 ## Central dogma of molecular biology
 
-| Slide | Transcript | Additional material|
+| Slide | Text | Additional material|
 |----------------|-------------|-------------|
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Central_dogma.png" width="25000">  | <ul><li>**The central dogma of molecular biology** describes the flow of the genetic information from DNA via RNA to proteins. It was formulated by Francis Crick in 1957 and published in 1958. </li><li>All cells **express** their genetic information based on this principle. </li><li>DNA segments are copied to RNA (a process called **transcription**). </li><li>RNA copies serve as templates for protein synthesis, the functional units of the cell. The process is called **translation**.</li> The slide illustrates the extended version of the central dogma.</ul>|[About DNA replication, transcription, and translation](https://www.youtube.com/watch?v=6gUY5NoX1Lk)   |
 
 ## DNA level
 
-| Slide | Transcript | Additional material|
-|----------------|-------------|-------------|
-|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Genomics.png" width="25000">|<ul>**DNA - Deoxyribonucleic acid**<li>Double helix</li><li>Monomeric units are called **nucleotides**</li><li>One of four nucleotides: adenine (A), thymine (T), cytosine (C), guanine (G)</li><li>The strands are bound according to **base pairing ** rules: A with T, C with G.<li>A and G are **purines**, C and T are pyrimidines</li></li></ul>|[About biomolecules](https://www.youtube.com/watch?v=1Dx7LDwINLU)|
+| Text | Additional material|
+|-------------|-------------|
+|<ul>**DNA - Deoxyribonucleic acid**<li>Double helix</li><li>Monomeric units are called **nucleotides**</li><li>One of four nucleotides: adenine (A), thymine (T), cytosine (C), guanine (G)</li><li>The strands are bound according to **base pairing ** rules: A with T, C with G.<li>A and G are **purines**, C and T are pyrimidines</li></li></ul>|[About biomolecules](https://www.youtube.com/watch?v=1Dx7LDwINLU)|
 
+| Slide | Text | Additional material|
+|----------------|-------------|-------------|
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Genomics.png" width="25000">  |DNA level is referred to as Genomics. Genomics studies whole genomes of organisms. It uses a combination of recombinant DNA, DNA sequencing methods, and bioinformatics to sequence, assemble, and analyse the structure and function of genomes. The main difference between genomics and genetics is that genetics scrutinizes the functioning and composition of the single gene (or several genes) where as genomics addresses all genes and their inter relationships in order to identify their combined influence on the growth and development of the organism.|[About DNA](youtube.com/watch?si=NF9aF05YWWBrv5s0&v=AmOO4j0E408&feature=youtu.be)|
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Development_genomics.png" width="25000">  |The main technique to study genomes is sequencing. Sequencing refers to getting access to the sequence or primary structure of any biopolymer. (DNA, mRNA, miRNA, methylation pattern). The sequencing have been rapidly developing from low-throughput methods like Sanger sequencing, which still remains the 'gold standard' to Illumina sequencing that can sequence millions of fragments in parallel or aims to sequence the whole DNA (long-sequencning by PacBio/ONT Nanopore).|[Sanger sequencing](https://www.youtube.com/watch?v=e2G5zx-OJIw) [Illumina](https://www.youtube.com/watch?v=fCd6B5HRaZ8&t=179s) [PacBio](https://www.youtube.com/watch?v=_lD8JyAbwEo) [Nanopore](https://www.youtube.com/watch?v=RcP85JHLmnI)|
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Genetic_variants.png" width="25000"> |Why do we need the whole-genome sequence. One application might be the evolution of species. The other application, is looking for changes in the DNA (or genetic variants) associated with certain traits, phenotypes, e.g., height, cognitive abilities, eye color. And also, genetic variants, or mutations, that raises the probability of certain diseases development|[About mutations](https://www.youtube.com/watch?v=vl6Vlf2thvI)|
