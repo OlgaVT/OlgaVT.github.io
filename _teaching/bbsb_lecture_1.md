@@ -70,6 +70,6 @@ Texbooks:
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Proteomics_type.png" width="25000">|<ul>**Proteomics.** Depending on the research question, there are different ways to study proteins. <li>We can measure the amount of proteins or protein expression with **mass-spectromery**.</li> <li>We can study their 3D structure of proteins with **nuclear magnetic resonance (NMR)** or **X-ray chrystallography**.</li><li>We can study the interactions between proteins with **co-immunoprecipitation** or **affinity-purification mass spectrometry**</ul>||
 
 ## Databases
-| Text | Additional material|
+| Slide |  Text|
 |-------------|-------------|
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Databases.png" width="25000">|The list of most commonly used databases|
