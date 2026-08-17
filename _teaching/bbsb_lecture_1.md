@@ -12,14 +12,13 @@ The basic concepts (not the full lecture!) for the Lecture 1: Introduction and l
 
 # Refreshing molecular Biology
 Texbooks:
-1. Bruce Alberts. Molecular biology of the cell. (the 4th edition could be found here: https://www.ncbi.nlm.nih.gov/books/NBK21054/)
+1. Bruce Alberts. Molecular biology of the cell. (The 4th edition could be found here: https://www.ncbi.nlm.nih.gov/books/NBK21054/)
 
 ## Central dogma of molecular biology
 
 | Slide | Transcript | Additional material|
 |----------------|-------------|-------------|
-| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Central_dogma.png" width="25000">  | <ul><li>**Central dogma of molecular biology** describes the flow of the genetic information from DNA via RNA to proteins. It was formulated by Francis Crick in 1957 and published in 1958. </li><li>All cells **express** their genetic information based on this principle. </li><li>DNA segments are copied to RNA (a process called **transcription**). </li><li>RNA copies serve as templeats for protein synthsis, the functional units of the cell. The process is called **translation**.</li> The slide illustrates the extended version of Central Dogma.</ul>|[About DNA replication, transcription, and translation](https://www.youtube.com/watch?v=6gUY5NoX1Lk)   |
-| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Measurements.png" width="25000">  |  We can measure each level to learn about the biological processes in the cell. Each layer comes with its own set of experimental techniques and downstream bioinformtics analysis. Some techniques measure one or several molecules. We call them low-throughput. In opposite, there are methods that try to measure all molecules of a type of interest. We call them high-throughput.  |[About biomolecules](https://www.youtube.com/watch?v=1Dx7LDwINLU)|
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Central_dogma.png" width="25000">  | <ul><li>**Central dogma of molecular biology** describes the flow of the genetic information from DNA via RNA to proteins. It was formulated by Francis Crick in 1957 and published in 1958. </li><li>All cells **express** their genetic information based on this principle. </li><li>DNA segments are copied to RNA (a process called **transcription**). </li><li>RNA copies serve as templates for protein synthesis, the functional units of the cell. The process is called **translation**.</li> The slide illustrates the extended version of Central Dogma.</ul>|[About DNA replication, transcription, and translation](https://www.youtube.com/watch?v=6gUY5NoX1Lk)   |
 
 ## DNA level
 
@@ -58,3 +57,7 @@ Texbooks:
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Proteomics_type.png" width="25000">|Finally, we arrived to proteins. Proteins mediate the cell functions. And depending on the research question, there are different ways to study proteins. We can measure the amount of proteins with. e.g., mass-spectromery. We can study their 3D structure. Or we can study the interactions between proteins. ||
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Proteomics_why.png" width="25000">|One important question: if proteins mediate the cell functions why not just always measure proteins. One reason is technical, we can not measure all the proteins and modifications. Next, RNA and protein level are associated but not ideally. And finally, looking only on proteins, we would lose the information about non-protein coding RNA sequences, important for, e.g., epigenetic regulation||
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Databases.png" width="25000">|The generated molecular data often (but, unfortunately, not always) become publicly available. Here is the list of example resources where you can find molecular measurements.||
+
+## Measurements
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Measurements.png" width="25000">  |  We can measure each level to learn about the biological processes in the cell. Each layer comes with its own set of experimental techniques and downstream bioinformtics analysis. Some techniques measure one or several molecules. We call them low-throughput. In opposite, there are methods that try to measure all molecules of a type of interest. We call them high-throughput.  |[About biomolecules](https://www.youtube.com/watch?v=1Dx7LDwINLU)|
+
