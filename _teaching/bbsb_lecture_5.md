@@ -7,7 +7,7 @@ venue: "VU"
 date: 2026-01-10
 location: "Amsterdam, the Netherlands"
 ---
-Here you will find the basic concepts for the Lecture 2 and links to the additional/support materials
+Here you will find the basic concepts for the Lecture 2 and links to the additional/support materials.
 
 # Transcriptomics
 
@@ -15,8 +15,8 @@ Here you will find the basic concepts for the Lecture 2 and links to the additio
 
 | Slide | Transcript | Additional material|
 |----------------|-------------|-------------|
-| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">| The difference between **low-** and **high-throughput methods** concerns the number of samples to be measured. <ul>Low-throuput gene expression measuring methods:<li>**Nothern blot** detects known RNA molecules</li><li>qPCR quintifies known RNA molecules (e.g., COVID19 test)</li><li>**mRNA fluorescence in situ hybridization/mRNA FISH** visualizes known mRNA molecules</li></ul>|[Nothern blot](link)   [qPCR](link) [mRNA FISH](link)[Microarray](link)   [METABRIC](link) |
-| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">| However, if we need to measure (almost) all genes in a sample, we use microarray or RNA-Sequencing. Microarray is almost obsolete though it is still have some applications, it is cheaper, and there are microarray datasets that is still widely used e.g., METABRIC that consists of about 2500 breast cancer samples. However, microarray uses the predefined set of probes to detect and quantify RNA, thus we can not detect and quantify novel transcripts. That's why RNA-Sequenicng is the most popular technology for measuring gene expression| |
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-5_page-0010.jpg.png" width="25000">| The difference between **low-** and **high-throughput methods** concerns the number of samples to be measured. <ul>Low-throuput gene expression measuring methods:<li>**Nothern blot** detects known RNA molecules</li><li>qPCR quintifies known RNA molecules (e.g., COVID19 test)</li><li>**mRNA fluorescence in situ hybridization/mRNA FISH** visualizes known mRNA molecules</li></ul><ul>High-throughput methods:<li>Microarray quantifies the expression of thousands of genes based on the known DNA sequences (**probes**). Cheaper, almost obsolete (have specific applications). </li><li>**RNA-Sequencing** quantifies mRNA molecules (**poly(A) RNA-Seq**) or all RNA molecules (**Total RNA-Seq**)</li></ul>|[Nothern blot](https://youtu.be/11NHYntRV4Q?si=zobrJ7W3ucd2b43F) [qPCR for COVID test](https://youtu.be/ThG_02miq-4?si=g7DXZ-QeFOxiSNgp) [Microarray]([link](https://youtu.be/xoxUWGl8WFs?si=RXzNU-7S8JQ7Sanv))|
+
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">| Sequencing technologies (covered in Lecture 4): <ul><li>First generation - Maxam-Gilber sequencing and Sanger sequencing</li><li>Second generation - high-throughput and parallel e.g., Illumina</li><li>Third generation - Single-cell and long reads resolution e.g., ONT Nanopore, PacBio</li></ul> |[Illumina](link)   [Sanger sequencing](link) [Nanopore](link) [PacBio](link) |
 
 Computational analysis of bulk RNA-Sequencing data: from raw files to a gene counts table
