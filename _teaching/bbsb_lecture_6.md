@@ -20,3 +20,9 @@ Here you will find the basic concepts for the Lecture 1 and link to the addition
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-6_11.jpg" width="25000">  | Gene sets are defined based on **ontology**: a collection of terms, with their definitions and relationship.||
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-6_12.jpg" width="25000"> | The Gene Ontology (GO) is a major bioinformatics initiative that provides standardized framework to describe the functions of genes and gene products. <ul>GO privides three main ontologies:<li>Cellular compnent - a cellular localization of a gene/gene product</li><li>Molecular function - the gene or gene product activity</li><li>Biological process - a gene function</li></ul>|[Gene Ontology](https://geneontology.org/)|
 
+## Enrichment analysis
+
+| Slide | Text | Additional material|
+|----------------|-------------|-------------|
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-6_19.jpg" width="25000">  | <ul>Main steps of enrichment analysis: <li>Define the list of genes your are interested to analyze (e.g., differentially expressed genes between case in control from RNA-Seq experiment)</li><li>Choose the source of the gene sets (e.g., Gene Ontology Biological processes)</li><li>Choose the enrichment test. Different anrichment analysis computational tools use different tests and approaches. **Enrichment test** determines the gene sets significantly over- or under-represented among the genes that you are interested to analyze</li></ul>||
+
