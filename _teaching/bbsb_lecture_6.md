@@ -33,6 +33,11 @@ Here you will find the basic concepts for the Lecture 1 and link to the addition
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-6_22.jpg" width="25000">  | <ul>Steps of the ORA (based on the differential gene expression analysis results as an example): <li>Define the groups of samples and perform the differential gene expression analysis</li><li>Rank genes that are significantly differentially expressed between chosen conditions by the differential statistic (e.g., LogFoldChange (LFC))</li><li>Choose the threshold to defind the list of genes to analyze with ORA. Usual thresholds for differential expression analysis e.g., LFC > +1 (**Upregulated**); LFC < -1 (**Downregulated**), |LFC| > 1.</li></ul>||
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-6_27.jpg" width="25000">  | <ul>Steps of the ORA (based on the differential gene expression analysis results as an example, continuation): <li>Choose the sourse of the gene sets (e.g., GO Biological processes)</li><li>For each gene set, calculate how many genes to analyze overlap with a gene set</li><li>Perform a statistical **association test** to determine if this overlap is significant. In other words, if this overlap is higher than it will be expected by chance.</li><li>To perform an association test, also calculate the following numbers: how many genes that is not from the list to analyze (**background**) overalp with a gene set, how many genes to analyze do not overlap with a gene set, and how many background genes do not overlap with a gene set.</li><li>After performing the association tests per gene set, correct the resulted p-values using any multiple test correction approaches</li></ul>||
 
+| Slide | Text | Additional material|
+|----------------|-------------|-------------|
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-6_30.jpg" width="25000">  | Most common association tests on bioinformatics: **Chi-squared test** (is used for bigger datasets) and **Fisher's exact test** (is used for smaller datasets). One-sided Fisher's exact test is called hypergeometric test.|[Fisher's exact test](https://www.pathwaycommons.org/guide/primers/statistics/fishers_exact_test/)|
+
+
 ## Gene set enrichment analysis (GSEA)
 
 | Slide | Text | Additional material|
