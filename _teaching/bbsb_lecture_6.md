@@ -44,3 +44,9 @@ Here you will find the basic concepts for the Lecture 1 and link to the addition
 
 | Slide | Text | Additional material|
 |----------------|-------------|-------------|
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-6_44.jpg" width="25000">  | The limitation of ORA: ORA-based methods require an arbitrary threshold to define the list of genes to analyze. However: there is no natural level for a threshold, different thresholds lead to different results, thresholding also leads to the information loss because it treats all significant results similarly despite their stremgth and neglects weak signals. Whole-distribution methods have been shown to be more stable and statistically powerful. They have to be used whenever is possible. **Gene set enrichment analysis (GSEA)** is an example of the whole distribution methods for enrichment analysis.||
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-6_45.jpg" width="25000">  |The idea of GSEA approach: Given genes in a gene set list (s) and a ranked list of genes to analyze, the question is whether S is distributed randomly (as the examplary gene set B) or tends towards upper or lower part of the ranked list (as the examplary gene set A).|[GSEA paper](https://www.pnas.org/doi/10.1073/pnas.0506580102)|
+
+
+
+
