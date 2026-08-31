@@ -38,3 +38,12 @@ The Kaggle course on [Machine learning](https://www.kaggle.com/learn/intro-to-ma
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-7_31.jpg" width="25000">  | <ul>Definitions:<li>**Loss function** is a function that defines the difference between the predicted target variables of a machine learning algorithm and the actual target values</li><li>**Error** is a difference between the predicted target variables of a machine learning algorithm and the actual target values for all target variables</li><li>**Learning** means finding the best model so that the error is minimal</il></ul>||
 | <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-7_32.jpg" width="25000">  | <ul>For the regression task, the most used loss function is **Mean squared error (MSE)**:<li>Mean squared deviation between the predicted and the actual target variables</li><li>Also in a form of **Root Mean Square Error (RMSE)** to return to the same units</li><li>Sensitive to outliers</il></ul>||
 
+## Classification
+
+| Slide | Text | Additional material|
+|----------------|-------------|-------------|
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-7_33.jpg" width="25000">  | **Classification** is a supervised learning technique to predict categories (e.g., smoking status (yes/no), cancer outcome (good/bad), response to treatment (postive/negative), etc).||
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-7_34.jpg" width="25000">  | The classification task can be viewed as the task of finding a hyperplane that separates categories in a feature space. Learning here is finding the parameters of a hyperplane so that the error is minimal||
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-7_35.jpg" width="25000">  | The classification task can be also adressed as the task of finding a rule that defines categories||
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-7_36.jpg" width="25000">  | The classification task can be also adressed as the task of predicting the probability to belong to a category. Usually, a certain threshold used (e.g., p=0.5) to separate categories||
+
