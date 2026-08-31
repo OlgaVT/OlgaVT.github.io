@@ -21,6 +21,8 @@ The Kaggle course on [Machine learning](https://www.kaggle.com/learn/intro-to-ma
 
 | Slide | Text | Additional material|
 |----------------|-------------|-------------|
-| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/Central_dogma.png" width="25000">  | <ul><li>**The central dogma of molecular biology** describes the flow of the genetic information from DNA via RNA to proteins. It was formulated by Francis Crick in 1957 and published in 1958. </li><li>All cells **express** their genetic information based on this principle. </li><li>DNA segments are copied to RNA (a process called **transcription**). </li><li>RNA copies serve as templates for protein synthesis, the functional units of the cell. The process is called **translation**.</li> The slide illustrates the extended version of the central dogma.</ul>|[About DNA replication, transcription, and translation](https://www.youtube.com/watch?v=6gUY5NoX1Lk)   |
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-7_3.jpg" width="25000">  | **Machine learning** (in simple words) is a set of approaches to find a function (or a rule) that defines the relationship between an input and an output.||
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-7_6.jpg" width="25000">  | **Supervised machine learning** operates with the labeled data. **Label** is the value for the **regression** task or the category for the classification task that a machine learning model is used to predict. **Unsupervised machine learning** operates with unlabeled data and is used to find patterns in such a data.||
+
 
 
