@@ -11,8 +11,8 @@ location: "Amsterdam, the Netherlands"
 Here you will find the basic concepts for the Lecture 7 and links to the additional/support material
 
 <ul>Materials:
-<li>The Kaggle course on [Machine learning](https://www.kaggle.com/learn/intro-to-machine-learning)</li>
-<li>[The Deep Learning textbook](https://www.deeplearningbook.org/)</li>
+<li> The Kaggle course on [Machine learning](https://www.kaggle.com/learn/intro-to-machine-learning) </li>
+<li> [The Deep Learning textbook](https://www.deeplearningbook.org/) </li>
 </ul>
 
 ## Machine learning
