@@ -10,11 +10,15 @@ location: "Amsterdam, the Netherlands"
 
 Here you will find the basic concepts for the Lecture 8 and link to the additional/support material
 
-Heading 1
-======
+Materials:
 
-Heading 2
-======
+The Kaggle course on [Machine learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
-Heading 3
-======
+[The Deep Learning textbook](https://www.deeplearningbook.org/)
+
+
+## Machine learning concerns
+
+| Slide | Text | Additional material|
+|----------------|-------------|-------------|
+| <img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/BBSB-7_3.jpg" width="25000">  | ||
