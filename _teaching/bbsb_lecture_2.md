@@ -12,8 +12,11 @@ The basic concepts (not the full lecture!) for the Lecture 2: Introduction and l
 
 # Protein sequence search
 [NCBI BLAST tutorials](https://www.youtube.com/playlist?list=PL7dF9e2qSW0azL2xOKAtxDW7QI8UU4XZ6)
+
 [Molecular Biology of the Cell, Bruce Alberts, et al](https://www.ncbi.nlm.nih.gov/books/NBK21054/) - Chapter 3. Proteins
+
 [Protein structure](https://youtu.be/MODnIkQvyz0?si=gQ9tvpxMntIbhsa8)
+
 Biostarts Handbook: BLAST
 
 
