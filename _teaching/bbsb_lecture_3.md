@@ -37,3 +37,11 @@ The basic concepts (not the full lecture!) for the Lecture 3: Introduction and l
 ||Slide 17 Illumina sequencing presents the 2nd generation sequencing technology. |[Illumina](https://www.youtube.com/watch?v=fCd6B5HRaZ8)|
 ||Slide 18 Oxford Nanopore (ONT) sequencing presents the 3rd generation sequencing technology based on long reads|[ONT](https://www.youtube.com/watch?v=E9-Rm5AoZGw)|
 
+## Sequencing output
+| Slide | Text | Additional material|
+|----------------|-------------|-------------|
+||Slide 19| **Seqeuncing reads** are output of a sequencing machine that represents the sequence of letters in a molecule. For DNA sequencing, reads represents the sequence of nucleotide is a DNA fragment.|
+||Slide 20| Output of sequencing is stored in a text-based **FASTQ** format. Each read has four features: 1) an identifier that starts with @; 2) a sequence; 3) a separator +; 4) a quality score|
+||Slide 21| **Sequencing depth** is a number of times a speicific nucleotide base is read (present in a read). **Sequencing coverage** is how much of the total original sequence has been read.|
+
+
