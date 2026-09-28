@@ -48,4 +48,6 @@ The basic concepts (not the full lecture!) for the Lecture 3: Introduction and l
 | Slide | Text | Additional material|
 |----------------|-------------|-------------|
 ||Slide 25. **Genome assembly** is the computational process of reconstructing a genome sequence from the DNA reads produced by sequencing machines. Reads can be presented as graphs. Each unique distinct element of a read can be presented as a **node** (or a **vertex**). The nodes are connected with **edges** with have directions (**directed graph**). The task is to find a Eulerian path: a trail in a finite graph that visits every edge exactly once, allowing for revisiting nodes).||
+||Slide 25. Genome assembly algorithms use the representation of reads as graphs and are based on the **Universal string problem** formulated by Nicolaas de Bruijn. **Universal string problem**: Given a set of strings, find a circular string that contains each of them exactly once. A string of a length k is also called **k-mer**.||
+||Slide 29. The steps: 1) ||
 
