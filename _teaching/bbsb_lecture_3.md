@@ -28,7 +28,12 @@ The basic concepts (not the full lecture!) for the Lecture 3: Introduction and l
 ## Sanger sequencing
 | Slide | Text | Additional material|
 |----------------|-------------|-------------|
-|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">|Slide 15 Sanger sequncing is the chain termination sequencing method. The steps of Sanger sequencing: 1) The synthesis of a **primer**: a short nucleotide chain that complimentarily binds to a single-stranded DNA and serves as a start of a DNA synthesis. 2) The DNA synthesis: during the DNA sequencing we add modified nucleotides that lacks the oxygen at the 3'-end and leads to chain termination (dideoxyribonucleotides (ddNTPs)). We set four DNA synthesis reactions, each with only a single type of ddNTP (ddATP, ddTTP, ddGTP, and ddCTP) mixed in. For a single type of ddNTP, we have all DNA fragments that end with this type of nucleotide. 3) We separate the fragments by size via capillary gel electrophoresis. **Electrophoresis**: technique to separate molecules based on different sized an electric charge. Smaller molecules will move faster than larger molecules. 4) We analyze the gel to read the sequence of a DNA||
+|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">|Slide 15 Sanger sequncing is the chain termination sequencing method. It presents the 1st generation sequencing technology. The steps of Sanger sequencing: 1) The synthesis of a **primer**: a short nucleotide chain that complimentarily binds to a single-stranded DNA and serves as a start of a DNA synthesis. 2) The DNA synthesis: during the DNA sequencing we add modified nucleotides that lacks the oxygen at the 3'-end and leads to chain termination (dideoxyribonucleotides (ddNTPs)). We set four DNA synthesis reactions, each with only a single type of ddNTP (ddATP, ddTTP, ddGTP, and ddCTP) mixed in. In an automatic Sanger sequencing, ddNTPs are fluorescently labelled with different colors. As the result, for a single type of ddNTP, we have all DNA fragments that end with this type of nucleotide. 3) We separate the fragments by size via capillary gel electrophoresis. **Electrophoresis**: technique to separate molecules in a gel based on different sizes and electric charge. Smaller molecules will move faster than larger molecules. 4) We analyze the gel to read the sequence of a DNA.||
 
 
-          
+## Illumina and Oxford Nanopore (ONT) sequencing
+| Slide | Text | Additional material|
+|----------------|-------------|-------------|
+||Slide 17 Illumina sequencing presents the 2nd generation sequencing technology. |[Illumina](https://www.youtube.com/watch?v=fCd6B5HRaZ8)|
+||Slide 18 Oxford Nanopore (ONT) sequencing presents the 3rd generation sequencing technology based on long reads|[ONT](https://www.youtube.com/watch?v=E9-Rm5AoZGw)|
+
