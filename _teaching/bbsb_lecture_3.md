@@ -20,7 +20,7 @@ The basic concepts (not the full lecture!) for the Lecture 3: Introduction and l
 |<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">|Slide 3 - The first sequenced genome was a genome of bacteria Haemophilus influenza and it was in a magnitute of megabases. The current state of DNA sequencing technology allows to sequence in the magnutitue of gigabases.||
 
 ## DNA structure
-
+|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/master/images/.png" width="25000">|Slide 11 - **DNA** stands for **Deoxyribonucleic acid**. **Ribo** reflects that DNA contains the sugar **ribose** with 5 carbon atoms (5-C sugar). The **acid** stands because DNA has three **phospate** groups. **Deoxy** reflects that the ribose sugar lacks one oxygen atom. The final part is the **nitrogenous base**: Adenine (A), Thymine (T), Guanine (G), Cytosine (C).||
 
 
           
