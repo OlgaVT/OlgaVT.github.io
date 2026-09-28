@@ -44,4 +44,8 @@ The basic concepts (not the full lecture!) for the Lecture 3: Introduction and l
 ||Slide 20| Output of sequencing is stored in a text-based **FASTQ** format. Each read has four features: 1) an identifier that starts with @; 2) a sequence; 3) a separator +; 4) a quality score|
 ||Slide 21| **Sequencing depth** is a number of times a speicific nucleotide base is read (present in a read). **Sequencing coverage** is how much of the total original sequence has been read.|
 
+## Genome assembly
+| Slide | Text | Additional material|
+|----------------|-------------|-------------|
+||Slide 25. **Genome assembly** is the computational process of reconstructing a genome sequence from the DNA reads produced by sequencing machines. Reads can be presented as graphs. Each unique distinct element of a read can be presented as a **node** (or a **vertex**). The nodes are connected with **edges** with have directions (**directed graph**). The task is to find a Eulerian path: a trail in a finite graph that visits every edge exactly once, allowing for revisiting nodes).||
 
