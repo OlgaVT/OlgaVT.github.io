@@ -40,9 +40,9 @@ The basic concepts (not the full lecture!) for the Lecture 3: Introduction and l
 ## Sequencing output
 | Slide | Text | Additional material|
 |----------------|-------------|-------------|
-|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/not_published/images/BBSB_3_19.png" width="25000">|Slide 19|**Sequencing reads** are output of a sequencing machine that represents the sequence of letters in a molecule. For DNA sequencing, reads represent the sequence of nucleotides as a DNA fragment.||
-|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/not_published/images/BBSB_3_20.png" width="25000">|Slide 20|Output of sequencing is stored in a text-based **FASTQ** format. Each read has four features: 1) an identifier that starts with @; 2) a sequence; 3) a separator +; 4) a quality score||
-|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/not_published/images/BBSB_3_21.png" width="25000">|Slide 21|**Sequencing depth** is a number of times a specific nucleotide base is read (present in a read). **Sequencing coverage** is how much of the total original sequence has been read.||
+|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/not_published/images/BBSB_3_19.png" width="25000">|**Sequencing reads** are output of a sequencing machine that represents the sequence of letters in a molecule. For DNA sequencing, reads represent the sequence of nucleotides as a DNA fragment.||
+|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/not_published/images/BBSB_3_20.png" width="25000">|Output of sequencing is stored in a text-based **FASTQ** format. Each read has four features: 1) an identifier that starts with @; 2) a sequence; 3) a separator +; 4) a quality score||
+|<img src="https://github.com/OlgaVT/OlgaVT.github.io/blob/not_published/images/BBSB_3_21.png" width="25000">|**Sequencing depth** is a number of times a specific nucleotide base is read (present in a read). **Sequencing coverage** is how much of the total original sequence has been read.||
 
 ## Genome assembly
 | Slide | Text | Additional material|
