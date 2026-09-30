@@ -12,6 +12,10 @@ The basic concepts (not the full lecture!) for the Lecture 3: Introduction and l
 
 # DNA sequencing
 
+If you want to refresh or learn the basics of algorithms and algorithm notation, consider reading Chapter 1. Introduction to algorithms. Grokking Algorithms, 2nd ed. Aditya Y Bhargava. Some chapters are available [here](https://www.manning.com/books/grokking-algorithms-second-edition)
+
+For more serious reading: Chapter 2. Algorithms and Complexity. An Introduction to Bioinformatics Algorithms (Sorin Istrail, Pavel Pevzner, and Michael Waterman, editors). 
+
 ## Introduction
 
 | Slide | Text | Additional material|
