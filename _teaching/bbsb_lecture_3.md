@@ -16,6 +16,8 @@ If you want to refresh or learn the basics of algorithms and algorithm notation,
 
 For more serious reading: Chapter 2. Algorithms and Complexity. An Introduction to Bioinformatics Algorithms (Sorin Istrail, Pavel Pevzner, and Michael Waterman, editors). 
 
+Ben Langmead on DNA sequencing algorithms: [link](https://www.youtube.com/watch?v=hpb-mH-yjLc&list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA)
+
 ## Introduction
 
 | Slide | Text | Additional material|
